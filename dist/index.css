@@ -61,7 +61,7 @@ body {
   background-size: cover !important;
   background-repeat: no-repeat;
   position: fixed;
-  color: #fff !important;
+  color: hsl(108, 88%, 35%) !important;
 }
 
 #display {
