@@ -6,16 +6,16 @@ title: Pisces Zhang
 description: Document my life with all the stuff and works here
 
 # Images
-avatar: 'avatar.jpg'
-background: 'background.jpg'
+avatar: 'https://shorturl.at/eGHL3'
+background: 'https://shorturl.at/jFRW9'
 favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
-linkedin: 'https://www.linkedin.com/in/hong-rui-zhang-1a248016b/'
-#instagram: 'myinsta'
+linkedin: 'hong-rui-zhang-1a248016b/'
+instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'rexlim820220'
@@ -32,7 +32,7 @@ github-user: 'rexlim820220'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-#email: 'hello@example.com'
+email: 'Pisces_Zhang@pegatroncorp.com'
 #messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, linkedin, twitter, instagram, tumblr, pinterest, youtube, vk, weibo, dribbble, messenger, blog_url, email]
@@ -57,15 +57,15 @@ social-links-order: [github-user, facebook, linkedin, twitter, instagram, tumblr
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  #- name: facebook
-  #  url-pattern: facebook.com/__USERNAME__
+  - name: facebook
+    url-pattern: facebook.com/cheng.honrea/
   #  icon-class: fab fa-2x fa-facebook-f
 
   #- name: twitter
   #  url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
-    url-pattern: https://www.linkedin.com/in/hong-rui-zhang-1a248016b/
+    url-pattern: linkedin.com/in/hong-rui-zhang-1a248016b/
 
   #- name: google-plus
   #  url-pattern: plus.google.com/+__USERNAME__
@@ -76,8 +76,8 @@ social-links:
   #- name: weibo
   #  url-pattern: weibo.com/__USERNAME__
 
-  #- name: instagram
-  #  url-pattern: instagram.com/__USERNAME__
+  - name: instagram
+    url-pattern: instagram.com/r.e.m.i.0.2.2.0/?igshid=ZDdkNTZiNTM%3D
 
   #- name: flickr
   #  url-pattern: flickr.com/__USERNAME__
