@@ -8,7 +8,13 @@ description: Document my life with all the stuff and works here
 # Images
 avatar: 'https://shorturl.at/eGHL3'
 background: 'https://shorturl.at/jFRW9'
-favicon: 'https://shorturl.at/cjqO2'
+favicon: 'https://shorturl.at/abEJP'
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Online profiles
 #dribbble: 'mydribbble'

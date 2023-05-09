@@ -74,7 +74,7 @@ body {
 
 #display h1 {
   font-size: 50px;
-  color: var(--text-color);
+  color: #F5F5DC;
   font-weight: bold;
   font-family: "Questrial", sans-serif;
 }
