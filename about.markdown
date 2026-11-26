@@ -8,8 +8,8 @@ I was trained with basic programming skills under the tutorial of [Department of
 
 ### 2019 ICUSA-GAME
 
-![ICUSA-GAME](https://pda.104.com.tw/profile/images/achievement_img1.jpeg?vno=75ins3bd1){:class="img-responsive"}
+[2019 ICUSA-GAME 研討會論文發表影片](https://www.youtube.com/watch?v=tOkITQ-z4ks)
 
 ### Volunteer
 
-![Volunteer](https://pda.104.com.tw/profile/images/custom_content_img1.jpeg?vno=75ins3bd1){:class="img-responsive"}
+[志工服務影片 — 泰北服務學習](https://www.youtube.com/watch?v=6iE7OqjxggQ&list=PL5D45BC9B70943593)
