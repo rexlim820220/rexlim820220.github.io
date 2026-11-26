@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pisces Zhang
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  rexlim820220
-linkedin_username: Pisces (Hong-Rui) Zhang 
+title: Pisces Zhang — Tech Notes
+baseurl: "" # user-site repo (rexlim820220.github.io) is served at root
+url: "https://rexlim820220.github.io"
+github_username: rexlim820220
+linkedin_username: Pisces (Hong-Rui) Zhang
 description: >- # this means to ignore newlines until "baseurl:"
-  Document my life with all the stuff and works here
+  Cross-SDK porting, 5G cloud-native, and industrial vision — engineering notes from the seam of three fields.
 # Build settings
 theme: minima
 plugins:
